@@ -5,10 +5,10 @@ A code refactoring project to ensure that the codebase follows accessibility sta
 ## Table of Contents
 
 - Technologies Used
-  HTML5, CSS3
+  - HTML5, CSS3
 
-  - Screenshots
+- Screenshots
 
-  - Features
+- Features
 
-  -Link on Github
+- Link on Github
