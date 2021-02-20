@@ -8,7 +8,10 @@ A code refactoring project to ensure that the codebase follows accessibility sta
   - HTML5, CSS3
 
 - Screenshots
+  - Image 1  
 ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot1.PNG)
+  - Image 2
+  ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot2.PNG)
 
 - Features
 
