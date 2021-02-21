@@ -8,20 +8,20 @@ A code refactoring project to ensure the codebase follows accessibility standard
   - HTML5, CSS3
 
 ### Screenshots
-  - Image 1  
+  ** Image 1 **  
   ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot1.PNG)
 
-  - Image 2
+  ** Image 2 **
   ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot2.PNG)
   
-   - Image 3
+   ** Image 3 **
   ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot3.PNG)
 
 ### Features
   - The web app has been refactored to eliminate redundant styling and show case the services provided by the company
-  - The web site is now more accessible and optimzed for performance
-  - Semantic tags have been introduced to describe the structure of the web site in order to increase its accessibility 
-
-### Link on Github
+  - Semantic tags have been introduced to describe the structure of the website
+  - The website is now more accessible and optimzed for performance
+  
+### Links on Github
   - The source code repository is available at this link: [https://github.com/TemyTemy/horiseon-code-refactor](https://github.com/TemyTemy/horiseon-code-refactor)
   - The home page to the website is available at this link: [https://temytemy.github.io/horiseon-code-refactor/](https://temytemy.github.io/horiseon-code-refactor/)
